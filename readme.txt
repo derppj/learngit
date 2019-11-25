@@ -4,3 +4,4 @@ from wjh&lyx
 today is so cool
 I'm learning how to use github
 find error
+creating a new branch is quick
